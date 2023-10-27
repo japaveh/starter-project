@@ -8,9 +8,9 @@
             <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
-    <build-profile instance="sd">
+    <build-profile instance="sp">
         <variables>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
         </variables>
         <footer>
             <copyright>Jield BV 2023</copyright>
