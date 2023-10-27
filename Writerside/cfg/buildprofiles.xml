@@ -12,6 +12,9 @@
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
+        <footer>
+            <copyright>Jield BV 2023</copyright>
+        </footer>
     </build-profile>
 
 </buildprofiles>
